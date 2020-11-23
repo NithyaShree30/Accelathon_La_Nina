@@ -21,9 +21,9 @@ To detect the plant disease using image processing and provide solutions to trea
     https://drive.google.com/file/d/1FZXraDDPqbRTXQeiQclfojgtoLddxQ_/view 
 4) paste the Alexnet Model inside the plant_app folder
 5)	Unzip the code folder and run the manage.py file 
-Use the following command to run the manage.py file:
-# 
-python manage.py runserver
+   Use the following command to run the manage.py file:
+#
+    python manage.py runserver
 6) Copy the local host url you get on chrome and the web page opens.
 
 # Techstack used: 
