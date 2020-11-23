@@ -34,7 +34,7 @@ To detect the plant disease using image processing and provide solutions to trea
 5)  Deeplearning 
 
 # Architecture
-![13](https://user-images.githubusercontent.com/45993890/95009135-3c566a00-063d-11eb-8b02-b2c77df6784b.JPG)
+![agroooo](https://user-images.githubusercontent.com/45993890/99955255-023a5680-2daa-11eb-8f89-102b3edd53cd.JPG)
 
 # Contributors:
 Team Name: La_Nina
