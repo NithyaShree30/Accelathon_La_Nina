@@ -18,7 +18,7 @@ To detect the plant disease using image processing and provide solutions to trea
 1)	Install Python and the necessary packages specified under requirements.txt
 2)	Download the code
 3)  download Alexnet Model from the following link:
-    https://drive.google.com/file/d/1FZXraDDPqbRTX-QeiQclfojgtoLddxQ_/view
+     https://drive.google.com/file/d/1FZXraDDPqbRTX-QeiQclfojgtoLddxQ_/view
 4) paste the Alexnet Model inside the plant_app folder
 5)	Unzip the code folder and run the manage.py file 
    Use the following command to run the manage.py file:
